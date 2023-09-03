@@ -1,6 +1,6 @@
 ## Profile Site
 
-Este e um site em HTML, CSS é JS para armazenar suas redes sociais, conectando seu avatar e username do Discord.
+Este e um site em HTML, CSS É JAVASCRIPT para armazenar suas redes sociais, conectando seu avatar e username do Discord.
 
 ### Requisitos
 
