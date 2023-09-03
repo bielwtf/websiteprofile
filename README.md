@@ -1,14 +1,14 @@
 ## Profile Site
 
-Este e um site em HTML, CSS É JAVASCRIPT para armazenar suas redes sociais, conectando seu avatar e username do Discord.
+Este e um site em HTML, CSS e JAVASCRIPT para armazenar suas redes sociais, conectando seu avatar e username do Discord.
 
 ### Requisitos
 
-Para conseguir hospedar o site você precisa de algum serviço que hospede websites, Cloudflare, Digital Ocean, Vercel, Netlify, SquareCloud, Discloud é etc...
+Para conseguir hospedar o site você precisa de algum serviço que hospede websites, Cloudflare, Digital Ocean, Vercel, Netlify, SquareCloud, Discloud, etc...
 
 ### Configuração
 
-No arquivo index.html você poderá fazer as suas mudanças, como: Seu id na API Lanyard, icones das redes sociais é etc...
+No arquivo index.html você poderá fazer as suas mudanças, como: Seu ID na API Lanyard, icones das redes sociais, etc...
 **Dentro do diretório src/js/links.js você poderá mudar os links das redes sociais.** 
 
 ### Ajuda
