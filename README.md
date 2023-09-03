@@ -9,8 +9,10 @@ Para conseguir hospedar o site você precisa de algum serviço que hospede websi
 ### Configuração
 
 No arquivo index.html você poderá fazer as suas mudanças, como: Seu id na API Lanyard, icones das redes sociais é etc...
-**Dentro do diretório src/js/links.js você poderá mudar os links das redes sociais.** ![Exemplo](https://imgur.com/a/BAKM8GQ)
+**Dentro do diretório src/js/links.js você poderá mudar os links das redes sociais.** 
 
 ### Ajuda
 
 Caso precise de ajude me chame no Discord que quando for possivel irei te ajudar. :)
+
+![Exemplo](https://imgur.com/a/wrH0AMF)
