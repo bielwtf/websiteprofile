@@ -15,4 +15,4 @@ No arquivo index.html você poderá fazer as suas mudanças, como: Seu id na API
 
 Caso precise de ajude me chame no Discord que quando for possivel irei te ajudar. :)
 
-https://imgur.com/a/wrH0AMF
+(https://imgur.com/a/wrH0AMF)
